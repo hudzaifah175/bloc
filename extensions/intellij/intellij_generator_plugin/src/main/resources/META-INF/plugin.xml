@@ -9,6 +9,9 @@
         ]]>
     </description>
 
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="93"/>
+
     <actions>
         <group
                 description="Bloc architecture templates"
